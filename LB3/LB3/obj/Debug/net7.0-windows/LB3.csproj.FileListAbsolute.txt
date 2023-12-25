@@ -1,0 +1,48 @@
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.exe
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.deps.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.runtimeconfig.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.Form1.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.GenerateResource.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfoInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfo.cs
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.CoreCompileInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\refint\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.genruntimeconfig.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB3\LB3\LB3\obj\Debug\net7.0-windows\ref\LB3.dll
+C:\Учебные дела\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.exe
+C:\Учебные дела\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.deps.json
+C:\Учебные дела\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.runtimeconfig.json
+C:\Учебные дела\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.dll
+C:\Учебные дела\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.pdb
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.Form1.resources
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.GenerateResource.cache
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfoInputs.cache
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfo.cs
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.CoreCompileInputs.cache
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.dll
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\refint\LB3.dll
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.pdb
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.genruntimeconfig.cache
+C:\Учебные дела\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\ref\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.exe
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.deps.json
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.runtimeconfig.json
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\bin\Debug\net7.0-windows\LB3.pdb
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.Form1.resources
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.GenerateResource.cache
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfoInputs.cache
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.AssemblyInfo.cs
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.csproj.CoreCompileInputs.cache
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\refint\LB3.dll
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.pdb
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\LB3.genruntimeconfig.cache
+F:\Mag\Магомед_идёт_к_горе\IB\LB3\LB3\LB3\obj\Debug\net7.0-windows\ref\LB3.dll
